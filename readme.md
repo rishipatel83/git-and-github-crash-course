@@ -1,6 +1,6 @@
-# learning git and github from scratch
-# git is a version control system that allows you to track changes in your code and collaborate with others. GitHub is a web-based platform that hosts git repositories and provides additional features for collaboration and project management.
-# To get started with git and GitHub, you can follow these steps:
+## Learning git and github from scratch
+## git is a version control system that allows you to track changes in your code and collaborate with others. GitHub is a web-based platform that hosts git repositories and provides additional features for collaboration and project management.
+## To get started with git and GitHub, you can follow these steps:
 1. Install git on your computer. You can download it from the official website: https://git-scm.com/downloads
 2. Create a GitHub account if you don't have one already:
     - Go to https://github.com and sign up for a new account.
